@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Поправка на плочки", "Поправка на плочки\Поправка на плочки.csproj", "{FB784F29-4D33-427C-BD43-A595A412A20B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Поспаливата котка Том", "Поспаливата котка Том\Поспаливата котка Том.csproj", "{BFEA5962-6F05-4BEA-81B0-6FB0E34CFD8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB784F29-4D33-427C-BD43-A595A412A20B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB784F29-4D33-427C-BD43-A595A412A20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB784F29-4D33-427C-BD43-A595A412A20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB784F29-4D33-427C-BD43-A595A412A20B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFEA5962-6F05-4BEA-81B0-6FB0E34CFD8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFEA5962-6F05-4BEA-81B0-6FB0E34CFD8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFEA5962-6F05-4BEA-81B0-6FB0E34CFD8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFEA5962-6F05-4BEA-81B0-6FB0E34CFD8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
